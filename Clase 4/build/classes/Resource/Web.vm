@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<h1>Hola Amiguito</h1>
+</head>
+<body>
+<ul>
+	<li> nombre:$Nombre</li>
+	<li> cedula:$Cedula</li>
+	<li> ciudad:$Ciudad</li>
+	<li> edad:$Edad</li>
+</ul>
+</body>
+</html>
